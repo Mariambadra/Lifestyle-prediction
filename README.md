@@ -106,3 +106,8 @@ Our target variable is **"Lifestyle Choice"**, a categorical feature, making thi
 - Perform hyperparameter tuning to improve accuracy.
 - Consider model deployment.
 - Implement user feedback mechanisms to enhance model performance.
+
+---
+
+## Data source
+please find the dataset following this Kaggle link https://drive.google.com/file/d/1bxelbZLE55icjC6IBNGO1curpWFTVxEy/view?usp=sharing
