@@ -110,4 +110,4 @@ Our target variable is **"Lifestyle Choice"**, a categorical feature, making thi
 ---
 
 ## Data source
-please find the dataset following this Kaggle link https://drive.google.com/file/d/1bxelbZLE55icjC6IBNGO1curpWFTVxEy/view?usp=sharing
+please find the dataset following this google drive link https://drive.google.com/file/d/1bxelbZLE55icjC6IBNGO1curpWFTVxEy/view?usp=sharing
